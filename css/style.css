@@ -139,7 +139,7 @@ nav.btnx,
 
 /* section home*/
 .home{
-	padding-top: 20px;
+	padding-top: 70px;
 	height: 100vh;
 	width: 95%;
 	background: url("../imgs/logo.png") no-repeat;
@@ -386,7 +386,7 @@ nav.btnx,
 .footer-section button {
 	margin: 10px 0;
 }
-.footer-section .realisateur p{
+.footer-section .realisateur p {
 	outline: none;
 	color: #fff;
 	font-size: 15px;
