@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"6",
+				"600"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"RE",
+				"red"
+			],
+			[
+				"BA",
+				"background"
+			],
+			[
+				"tr",
+				"translate()"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"a",
+				"acceuil"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"i",
+				"inc"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"HE",
+				"height"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"rota",
+				"rotate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"transor",
+				"transform"
+			],
+			[
+				"scri",
+				"script"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fl",
+				"flex-wrap"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"I",
+				"img"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"whitesmoke"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"per",
+				"perspective"
+			],
+			[
+				"pe",
+				"presentation"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"pre",
+				"presentation1"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"ff",
+				"ff0000"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"grid-templat",
+				"grid-template-columns"
+			],
+			[
+				"gr",
+				"grid-template"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"li",
+				"linear"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"sr",
+				"services"
+			],
+			[
+				"A",
+				"ACHETER"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"ji",
+				"justify-content"
+			],
+			[
+				"P",
+				"poppins"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"scroll",
+				"scroll-behavior"
+			],
+			[
+				"scroll-paddiGN",
+				"scroll-padding-top"
+			],
+			[
+				"SC",
+				"scroll-padding"
+			],
+			[
+				"OVER",
+				"overflow-x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Pangalana2.0/pangalana.html",
+		"/E/Pangalana2.0/css/pangalana.css",
+		"/E/pangalana/css/bg.css",
+		"/E/pangalana/panga.html",
+		"/E/Projet html 2025/css/style.css",
+		"/E/love food/css/style.css",
+		"/E/teste animation/js/anim.js",
+		"/E/teste animation/css/geste.css",
+		"/E/teste animation/vakraoka.html",
+		"/E/Love Food 2.0/css/stylee.css",
+		"/E/love food/index.html",
+		"/E/Love Food 2.0/indexx.html",
+		"/E/projet html 2025/css/style.css",
+		"/E/projet html 2025/choixetude.html",
+		"/E/love food/love food 2.0",
+		"/E/projet html 2025/index.html",
+		"/C/Users/VINCENT SANTONIO/Downloads/Télécharger Snaptube PC Gratuit Pour Windows 7 8 et 10_files/js",
+		"/E/projet html 2025/univB5.html",
+		"/C/Users/VINCENT SANTONIO/Documents/index.html",
+		"/E/projet html 2025/img/mpianatra.jpg",
+		"/E/Projet dev/css/styles.css",
+		"/E/Projet dev/index.html",
+		"/E/Projet dev/css/style.css",
+		"/E/dev teste/ind.html",
+		"/E/dev teste/css/styles.css",
+		"/E/dev teste/css/style.css",
+		"/E/love food/css/styles.css",
+		"/E/love food/css/styl.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 140.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "pangalana.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
