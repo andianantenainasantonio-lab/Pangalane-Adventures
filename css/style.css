@@ -505,6 +505,33 @@ nav.btnx,
 		font-size: 55px;
 	}
 	.home .text .text3{
-		font-size: 33px;
+		font-size: 32px;
+	}
+	.home .text .text4{
+		font-size: 20px;
+	}
+
+}
+
+@media (max-width: 310px){
+	.home .text .text2{
+		font-size: 40px;
+	}
+	.home .text .text3{
+		font-size: 18px;
+	}
+	.home .text .text4{
+		font-size: 15px;
+	}
+	.titre, .titre1{
+		font-size: 15px;
+		text-align: center;
+		padding: 5px 0 20px;
+		border-bottom: 8px solid #4070f4;
+		line-height: 5px;
+	}
+	.home .butun{
+	margin: 15px 0;
+	margin-top: 50px;
 	}
 }
